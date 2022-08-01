@@ -1,0 +1,8 @@
+python :
+  name: python
+  description: False
+  cover: assets/built/images/blog-cover.jpg
+mysql :
+  name: mysql
+  description: False
+  cover: assets/built/images/blog-cover.jpg
