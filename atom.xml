@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>데이터 분석</description>
+    <link>
+    https://bobohy01.github.io</link>
+    
+      
+      <item>
+        <title>(3) MySQL 예시</title>
+        
+          <description>&lt;h1 id=&quot;post&quot;&gt;post&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+        <link>
+        https://bobohy01.github.io/mysql-exam</link>
+        <guid isPermaLink="true">https://bobohy01.github.io/mysql-exam</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>(2) Python 제어문</title>
+        
+          <description>&lt;h1 id=&quot;post&quot;&gt;post&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+        <link>
+        https://bobohy01.github.io/python-control</link>
+        <guid isPermaLink="true">https://bobohy01.github.io/python-control</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>(1) Python 기본</title>
+        
+          <description>&lt;h1 id=&quot;post&quot;&gt;post&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+        <link>
+        https://bobohy01.github.io/python-basic</link>
+        <guid isPermaLink="true">https://bobohy01.github.io/python-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>(2) MySQL 제어문</title>
+        
+          <description>&lt;h1 id=&quot;post&quot;&gt;post&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+        <link>
+        https://bobohy01.github.io/mysql-control</link>
+        <guid isPermaLink="true">https://bobohy01.github.io/mysql-control</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>(1) MySQL 기본</title>
+        
+          <description>&lt;h1 id=&quot;post&quot;&gt;post&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+        <link>
+        https://bobohy01.github.io/mysql-basic</link>
+        <guid isPermaLink="true">https://bobohy01.github.io/mysql-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>please</title>
+        
+          <description>&lt;p&gt;xxxxx&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+        <link>
+        https://bobohy01.github.io/mysql-please</link>
+        <guid isPermaLink="true">https://bobohy01.github.io/mysql-please</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>my sql example</title>
+        
+          <description>&lt;h1 id=&quot;힘들다&quot;&gt;힘들다&lt;/h1&gt;
+&lt;p&gt;하 너는 또 왜 포스트가 안되니 짜증하게&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+        <link>
+        https://bobohy01.github.io/mysql-example</link>
+        <guid isPermaLink="true">https://bobohy01.github.io/mysql-example</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>example</title>
+        
+          <description>&lt;h1 id=&quot;post&quot;&gt;post&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+        <link>
+        https://bobohy01.github.io/example</link>
+        <guid isPermaLink="true">https://bobohy01.github.io/example</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
